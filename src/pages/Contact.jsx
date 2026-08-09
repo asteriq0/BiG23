@@ -134,7 +134,7 @@ function Contact() {
               </h2>
 
               <p className="mt-3 text-gray-600">
-                Thank you for contacting Big23.
+                Thank you for contacting BiG23.
                 We will get back to you shortly.
               </p>
 
