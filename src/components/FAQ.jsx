@@ -22,12 +22,37 @@ function FAQ() {
     {
       question: "Can I track my tow truck?",
       answer:
-        "Yes. Our planned tracking feature will allow customers to view their assigned truck location and estimated arrival time.",
+        "Once your tow request is confirmed, you'll receive a tracking ID that you can use to view your assigned tow truck's location and estimated arrival time in real time.",
     },
     {
       question: "What information do I need when requesting a tow?",
       answer:
         "You'll need your location, vehicle details, the issue you're experiencing, and your contact information.",
+    },
+    {
+      question: "How quickly can a tow truck arrive?",
+      answer:
+        "Arrival time depends on your location, traffic conditions, and the availability of a nearby tow truck. Our team will provide an estimated arrival time after your request is received.",
+    },
+    {
+      question: "What types of vehicles do you tow?",
+      answer:
+        "We provide towing assistance for a range of vehicles. When submitting a request, select the vehicle type that best describes your vehicle or choose 'Others' if it is not listed.",
+    },
+    {
+      question: "How much does towing cost?",
+      answer:
+        "Towing costs may vary depending on factors such as your location, the type of vehicle, the distance involved, and the type of assistance required. Contact BiG23 for more information about your specific request.",
+    },
+    {
+      question: "What payment methods do you accept?",
+      answer:
+        "Available payment methods may depend on the service and location. Our team will provide payment information when your towing request is processed.",
+    },
+    {
+      question: "What happens after I submit a tow request?",
+      answer:
+        "After your request is submitted, our team will review the details and arrange appropriate towing assistance. You will receive the relevant information needed to follow up on your request.",
     },
   ];
 

@@ -9,6 +9,8 @@ import RequestTow from "./pages/RequestTow";
 import Tracking from "./pages/Tracking";
 import Contact from "./pages/Contact";
 import ScrollTotop from "./components/ScrollTotop";
+import PrivacyPolicy from "./pages/PrivacyPolicy";
+import TermsConditions from "./pages/TermsConditions";
 
 function App() {
   return (
@@ -24,6 +26,8 @@ function App() {
       <Route path="/request-tow" element={<RequestTow />} />
       <Route path="/tracking" element={<Tracking />} />
       <Route path="/contact" element={<Contact />} />
+      <Route path="/privacy-policy" element={<PrivacyPolicy />} />
+      <Route path="/terms-conditions" element={<TermsConditions />} />
       </Route>
 
     </Routes>

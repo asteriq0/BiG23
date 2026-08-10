@@ -8,6 +8,7 @@ import {
 } from "lucide-react";
 import truckLogo from "../assets/icons/pickup-truck.svg";
 import contact from "../data/contact";
+import { path } from "framer-motion/client";
 
 function Footer() {
   const quickLinks = [
@@ -16,6 +17,8 @@ function Footer() {
     { name: "Request a Tow", path: "/request-tow" },
     { name: "Track Tow", path: "/tracking" },
     { name: "Contact", path: "/contact" },
+    { name: "Privacy Policy", path: "/privacy-policy"},
+    { name: "Terms & Conditions", path: "/terms-conditions" },
   ];
 
   const services = [
