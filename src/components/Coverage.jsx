@@ -5,6 +5,7 @@ import westAfricaMap from "../assets/images/west-africa-map.webp";
 function Coverage() {
   const countries = [
     "Nigeria",
+    "South Africa",
     "Benin",
     "Togo",
     "Ghana",
