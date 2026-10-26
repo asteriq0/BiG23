@@ -78,7 +78,7 @@ function Contact() {
     {
       icon: <MapPin size={28} />,
       title: "Coverage",
-      text: "Nigeria & West Africa",
+      text: "Nigeria & other listed African countries",
     },
   ];
 

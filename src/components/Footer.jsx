@@ -212,7 +212,7 @@ function Footer() {
               />
 
               <span>
-                Nigeria & West Africa
+                Nigeria & other listed African countries.
               </span>
             </li>
 

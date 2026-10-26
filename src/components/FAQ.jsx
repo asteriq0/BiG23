@@ -12,7 +12,7 @@ function FAQ() {
     {
       question: "What areas do you cover?",
       answer:
-        "We currently serve Nigeria and selected neighboring countries including Benin, Togo, and Ghana.",
+        "We currently serve Nigeria and selected neighboring countries including Benin, Togo, Ghana, and South Africa.",
     },
     {
       question: "How do I request a tow?",

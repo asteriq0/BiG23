@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { CheckCircle2, MapPinned } from "lucide-react";
-import westAfricaMap from "../assets/images/west-africa-map.webp";
+import westAfricaMap from "../assets/images/west-africa-map.png";
 
 function Coverage() {
   const countries = [
@@ -46,13 +46,13 @@ function Coverage() {
             Coverage Area
           </p>
 
-          <h2 className="mt-3 text-4xl font-bold text-slate-900">
-            Serving Drivers Across West Africa
+          <h2 className="mt-3 text-3xl font-bold text-slate-900">
+            Roadside Assistance Across Selected African Countries
           </h2>
 
           <p className="mt-5 text-gray-600">
             BiG23 provides dependable emergency towing services across
-            Nigeria and selected neighboring countries.
+            Nigeria & other listed African countries.
           </p>
         </motion.div>
 
